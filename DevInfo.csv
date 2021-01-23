@@ -1,0 +1,14 @@
+author = simon stevenson 40151144,,,,,,,,squareDevStatus,,,,,
+squareName[0],squareOwnerID[1],squareNumber[2],squareFieldID[3],squarePurchaseCost[4],squareDevCost[5],squareRentAmount[6],squareDevStatus[7],Rent + 1 Development [8],Rent + 2 Development [9],Rent + 3 Development [10],Rent + 1 Development [11],majDevPrice,mortgageValue
+Earth Day Parade,-1,0,0,60,45,5,0,25,75,225,300,180,30
+B.I.N.S HQ,0,1,1,60,45,5,0,25,75,225,300,180,30
+Automated Recycling,0,2,1,60,45,5,0,25,75,225,300,180,30
+Oil Spill Relief Effort,0,3,2,160,120,15,0,65,200,600,800,480,80
+Nernobyl Relief Effort,0,4,2,160,120,15,0,65,200,600,800,480,80
+BudLite Virus Relief Effort,0,5,2,160,120,15,0,65,200,600,800,480,80
+G20 Summit,-1,6,0,160,120,15,0,65,200,600,800,480,80
+Quantum Computing Research,0,7,3,220,165,20,0,90,275,825,1100,660,110
+MESLA HQ,0,8,3,220,165,20,0,90,275,825,1100,660,110
+BioFoodz HQ,0,9,3,220,165,20,0,90,275,825,1100,660,110
+Ceres Mining Company HQ,0,10,4,350,265,30,0,145,440,1315,1750,1050,175
+DigiBees HQ,0,11,4,350,265,30,0,145,440,1315,1750,1050,175
